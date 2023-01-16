@@ -1,6 +1,7 @@
 <?php
  
-$heading = 'Contacts';
+$x = 'Contacts';
+
 
 include 'views/contacts.view.php';
 

@@ -1,3 +1,4 @@
 <?php
-$heading = "Home";
+$x = "Home";
+
 require "views/index.view.php";
