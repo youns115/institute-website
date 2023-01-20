@@ -1,5 +1,5 @@
 <?php
- require "functions.php";
+
 
 $heading = 'Contacts';
 
