@@ -4,7 +4,7 @@
   <?php require('partials/banner.php') ?>
   <main>
     
-    
+      
 
     
   </main>
