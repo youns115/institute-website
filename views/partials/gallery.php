@@ -21,7 +21,7 @@
       aria-label="Slide 3"
     ></button>
   </div>
-  <div class="carousel-inner relative w-full overflow-hidden ">
+  <div class="carousel-inner relative w-full overflow-hidden h-90">
     <div class="carousel-item active relative float-left w-full " >
       <img
         src="/images/uni-1.jpg"
@@ -33,7 +33,7 @@
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe.</p>
       </div>
     </div>
-    <div class="carousel-item relative float-left w-full ">
+    <div class="carousel-item relative float-left w-full h-90">
       <img
         src="/images/uni-2.jpg"
         class="block w-full h-full object-cover"
@@ -44,7 +44,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi!</p>
       </div>
     </div>
-    <div class="carousel-item relative float-left w-full">
+    <div class="carousel-item relative float-left w-full h-90">
       <img
         src="/images/uni-3.jpg"
         class="block w-full h-full object-cover"
@@ -80,7 +80,7 @@
 <style>
 
   /* resize images (Tailwind'a suk eshy nadakrd)  */
-  @media screen and (min-width: 800px){ 
+  
     
     .carousel-item{
       height: 80vh;
@@ -89,8 +89,15 @@
      .carousel-item img{
       height: 100%;
     }
+
+   
+    @media (max-width: 767px) {
+    .carousel-item {
+    height: 30vh;
     
-   }
+  }
+}
+   
     
    .outline-text-black{ 
     text-shadow: rgb(0, 0, 0) 1px 0px 0px, rgb(0, 0, 0) 0.540302px 0.841471px 0px, rgb(0, 0, 0) -0.416147px 0.909297px 0px, rgb(0, 0, 0) -0.989993px 0.14112px 0px, rgb(0, 0, 0) -0.653644px -0.756803px 0px, rgb(0, 0, 0) 0.283662px -0.958924px 0px, rgb(0, 0, 0) 0.96017px -0.279416px 0px;
