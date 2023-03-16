@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1000" viewBox="0 0 30 50">
+	<title>Flag of the United Kingdom 3:5 — vertical</title>
+	<defs>
+		<clipPath id="f">
+			<path d="m0 0h30v50H0z"/>
+		</clipPath>
+		<clipPath id="s">
+			<path d="m30 0H15v50H0zM0 0v25h30v25z"/>
+		</clipPath>
+	</defs>
+	<path fill="#012169" d="m0 0h30v50H0z"/>
+	<g stroke="#c8102e" stroke-width="6" clip-path="url(#f)">
+		<path stroke="#fff" d="m30 0L0 50M0 0l30 50"/>
+		<path stroke-width="4" clip-path="url(#s)" d="m30 0L0 50M0 0l30 50"/>
+		<path stroke="#fff" stroke-width="10" d="m30 25H0M15 0v50"/>
+		<path d="m30 25H0M15 0v50"/>
+	</g>
+</svg>

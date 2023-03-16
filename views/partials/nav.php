@@ -10,7 +10,7 @@
     </nav>
 </div>
 
-<nav class="px-2  bg-white border-gray-200 ">
+<nav class="px-2  bg-white border-gray-200   sm:sticky sm:top-0 sm:z-50 sm:px-2 sm:bg-white sm:border-gray-200 sm:shadow-lg">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="#" class="flex items-center">
         <img src="/images/aynda-logo.png" class="h-12 mr-3 sm:h-20 " alt="aynda logo" />
@@ -55,3 +55,5 @@
     </div>
   </div>
 </nav>
+
+
