@@ -1,9 +1,10 @@
   <?php require('partials/head.php') ?>
   <?php require('partials/nav.php') ?>
 
-  <?php require('partials/gallery.php') ?>
+  
   <main>
-    
+    <?php require('partials/gallery.php') ?>
+    <?php require('partials/card.php') ?>
       
 
     

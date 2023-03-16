@@ -1,4 +1,4 @@
-<div class=" dark:bg-gray-900 py-1 pl-5 align-middle">
+<div class=" bg-gray-900 py-1 pl-5 align-middle">
     <nav class=" container flex flex-wrap items-center justify-between mx-auto text-white" >
         <div>
           <p class="inline pr-5">0750 975 4545</p>
