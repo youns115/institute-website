@@ -5,6 +5,11 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>Aynda Institute</title>
+    <link rel = "icon" href = 
+"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eo_circle_blue_letter-a.svg/2048px-Eo_circle_blue_letter-a.svg.png" 
+        type = "image/x-icon">
+
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.4/flowbite.min.css" rel="stylesheet" />
@@ -33,6 +38,9 @@
 </script>
 
 
+
 </head>
+
+
 
 <body>

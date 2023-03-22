@@ -1,7 +1,7 @@
 <div>
 <h1 class=" text-center mt-3 mb-3 pb-3 text-3xl  border-b-2 border-blue-900" >Departments</h1>
 
-<div class="flex h-100  items-center justify-center">
+<div class="flex h-100  items-center justify-center mt-7">
 
   <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
     <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
@@ -16,10 +16,6 @@
       </div>
     </div>
 
-    
-
-
-
     <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
       <div class="h-96 w-72">
         <img class="h-full w-full object-cover transition-transform duration-500 group-hover:rotate-3 group-hover:scale-125" src="https://mfiles.alphacoders.com/963/963733.jpg" alt="Pharmacy" />
@@ -31,8 +27,6 @@
         <button class="rounded-full bg-neutral-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60">Learn More</button>
       </div>
     </div>
-
-
 
     <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
       <div class="h-96 w-72">
