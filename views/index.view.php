@@ -3,7 +3,7 @@
 
   
   <main>
-    <?php require('partials/gallery.php') ?>
+    <?php require('partials/carousel.php') ?>
     <?php require('partials/card.php') ?>
       
 

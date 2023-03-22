@@ -1,7 +1,7 @@
 <?php
 
 
-$heading = "FAQs";
+$heading = "Frequently Asked Questions";
 
 
 require "views/faq.view.php";

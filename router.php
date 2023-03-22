@@ -8,7 +8,8 @@ $routes = [
     '/' => 'controllers/index.php',
     '/about' => 'controllers/about.php',
     '/contacts' => 'controllers/contacts.php',
-    '/faq' => "controllers/faq.php"
+    '/faq' => 'controllers/faq.php',
+    '/gallery' => 'controllers/gallery.php'
 
 ];
 

@@ -47,7 +47,7 @@
           </div>
         </li>
         <li>
-          <a href="#" class="block py-2 pl-3 pr-4 text-black rounded   md:border-0 md:hover:text-blue-700 md:p-0 ">Gallery</a>
+          <a href="/gallery" class="block py-2 pl-3 pr-4 text-black rounded   md:border-0 md:hover:text-blue-700 md:p-0 ">Gallery</a>
         </li>
         <li>
           <a href="/faq" class="block py-2 pl-3 pr-4 text-black rounded   md:border-0 md:hover:text-blue-700 md:p-0 ">FAQs</a>
