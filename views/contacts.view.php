@@ -5,7 +5,8 @@
   
 
   <main>
-    
+  <?php require('partials/banner.php') ?>
+  <?php require('partials/contacts.php') ?>
     
 
     
