@@ -6,7 +6,7 @@
         </div>
 
         <div class="max-w-5xl mx-auto mt-12 sm:mt-16">
-            <div class="grid grid-cols-1 gap-6 px-8 text-center md:px-0 md:grid-cols-3">
+            <div class="grid grid-cols-1 gap-6 px-8 text-center md:px-0 md:grid-cols-2">
                 <div class="overflow-hidden bg-white rounded-xl">
                     <div class="p-6">
                         <svg class="flex-shrink-0 w-10 h-10 mx-auto text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -31,16 +31,25 @@
                     </div>
                 </div>
 
-                <div class="overflow-hidden bg-white rounded-xl">
-                    <div class="p-6">
-                        <svg class="flex-shrink-0 w-10 h-10 mx-auto text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                        </svg>
-                        <p class="mt-6 text-lg font-medium leading-relaxed text-gray-900">Erbil, Kasnazan Road</p>
-                    </div>
-                </div>
             </div>
+            
+            <div class="overflow-hidden bg-white rounded-xl mt-6 ">
+    <div class="p-6">
+        <svg class="flex-shrink-0 w-10 h-10 mx-auto text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+        <p class="mt-6 text-lg font-medium leading-relaxed text-gray-900 text-center ">Erbil, Kasnazan Road</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1609.7174962157474!2d44.12019812969948!3d36.20462065828428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x400726d37b703063%3A0xe5bd7fce18249897!2sAynda%20Private%20Technical%20Institute!5e0!3m2!1sen!2sus!4v1679851170501!5m2!1sen!2sus" class="w-full" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+</div>
+
+
+
+
+
+
+
 
             <div class="mt-6 overflow-hidden bg-white rounded-xl">
                 <div class="px-6 py-12 sm:p-12">
