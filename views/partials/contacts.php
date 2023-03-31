@@ -93,7 +93,7 @@
                         </div>
                         <input type="hidden" name="_subject" value="New Aynda contact">
                         <input type="hidden" name="_captcha" value="true">
-                        <input type="hidden" name="_autoresponse" value="Thanks for your message we will be contacting you soon :)">
+                        <input type="hidden" name="_autoresponse" value="Thanks for your message, we will be contacting you soon :)">
                     </form>
                 </div>
             </div>
