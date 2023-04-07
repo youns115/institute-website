@@ -3,6 +3,7 @@
     <div>
       <p class="inline pr-5">0750 975 4545</p>
       <a href="mailto:info@aynda.edu.krd"> info@aynda.edu.krd</a>
+
     </div>
     <a href="https://lms.aynda.edu.krd/" target="_blank">
       <img class="h-5 mr-3" src="/images/Moodle-logo.svg.png" alt="moodle logo">
@@ -12,7 +13,7 @@
 
 <nav class="px-2  bg-white border-gray-200   sm:sticky sm:top-0 sm:z-50 sm:px-2 sm:bg-white sm:border-gray-200 sm:shadow-lg">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
-    <a href="#" class="flex items-center">
+    <a href="/login" class="flex items-center" title="Login">
       <img src="/images/aynda-logo.png" class="h-12 mr-3 sm:h-20 " alt="aynda logo" />
       <span class="self-center text-l font-semibold whitespace-nowrap text-blue-700 ">Aynda Private Technical Institute</span>
     </a>
